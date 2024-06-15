@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./assets/css/form.css">
+  <title>My First Blog</title>
+</head>
+
+<body>
+  <header>
+    <button id="toggle">🌞</button>
+  </header>
+  <main>
+    <section id="left">
+      <div>
+        <h2>My First Blog!</h2>
+      </div>
+    </section>
+    <section id="right">
+      <h2>What's on your mind?</h2>
+      <form>
+        <label for="username">Username</label>
+        <input id="username" type="text" />
+        <label for="title">Title</label>
+        <input id="title" type="text" />
+        <label for="content">Content</label>
+        <textarea id="content" type="text" rows="4"></textarea>
+        <p id="error"></p>
+        <button type="submit">Submit</button>
+    </section>
+  </main>
+  <script src="./assets/js/form.js"></script>
+</body>
+
+</html>
