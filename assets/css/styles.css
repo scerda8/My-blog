@@ -1,0 +1,68 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+header{
+    display: flex;
+    justify-content: flex-end;
+    height: 7vh;
+    border-bottom:double 7px black;
+}
+header>button{
+    margin:15px;
+    border:none;
+}
+.dark header{
+    background-color: rgb(8, 8, 8);
+    color:white;
+    border-bottom: double 5px white;
+}
+
+.dark main{
+    background-color:  rgb(8, 8, 8);
+    color: white;
+}
+.dark main >#right{
+border-color: white;
+}
+.dark form >button{
+    background-color:white;
+    color:black;
+}
+.dark div.card{
+    /* background-color:rgb(59, 59, 59); */
+    background-color: rgb(8, 8, 8);
+    color:white;
+    border-bottom: double 3px white;
+    border-left: solid white;
+    border-right: solid white;
+}
+.dark div.card{
+   border-top: solid white;
+   margin-top: black;
+
+}
+
+.light header{
+    background-color:white;
+    color:black;
+}
+
+.light main{
+    background-color:white;
+    color:black;
+}
+body.dark{
+    background-color: black;
+}
+.light header a{
+    color:black;
+    text-align: center;
+    font-size: 17px;
+}
+.dark header a{
+    color:white;
+    text-align: center;
+    font-size: 17px;
+}
