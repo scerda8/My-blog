@@ -1,6 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Title: My-Blog
+## Title: My-Blogs
 
 ## Description:
 This blog is a two-pager website that allows the user to view and make blog posts.The user is also allowed to naviagate the website b switching it from light to dark mode. This project will utilize JavaScript and CSS to change how the website will look and behave.
