@@ -76,6 +76,8 @@ https://scerda8.github.io/My-blogs/
 Here is the link to the [repo](https://github.com/scerda8/My-blog.git)
 
 
-![alt text](image.png)
 
-![alt text](image2.png)
+![blog pic](https://github.com/scerda8/My-blogs/assets/159675591/10d83f5f-a69c-48c3-9a66-bcf227e77295)
+
+
+<img width="1331" alt="blog pic " src="https://github.com/scerda8/My-blogs/assets/159675591/6eaaa547-4fbe-4a17-9453-57551f2d1b89">
