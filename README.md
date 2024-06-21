@@ -70,5 +70,12 @@ THEN I am presented with a link to the developer's portfolio.
 
 ### Deployment Link:
 
+https://scerda8.github.io/My-blogs/
+
 ### Github Repo Link:
 Here is the link to the [repo](https://github.com/scerda8/My-blog.git)
+
+
+![alt text](image.png)
+
+![alt text](image2.png)

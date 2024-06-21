@@ -10,7 +10,7 @@ header{
     border-bottom:double 7px black;
 }
 header>button{
-    margin:15px;
+    margin:16px;
     border:none;
 }
 .dark header{
@@ -31,7 +31,6 @@ border-color: white;
     color:black;
 }
 .dark div.card{
-    /* background-color:rgb(59, 59, 59); */
     background-color: rgb(8, 8, 8);
     color:white;
     border-bottom: double 3px white;
@@ -65,4 +64,10 @@ body.dark{
     color:white;
     text-align: center;
     font-size: 17px;
+}
+.dark p{
+ color: white;
+}
+.dark a{
+color:rgb(0, 225, 255);
 }
